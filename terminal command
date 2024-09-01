@@ -1,0 +1,13 @@
+1. create create react projects with vit
+  npm create vite@latest -> project name: frontend->react->js
+2. naviagte to the folder and install dependencies
+  cd frontend -> npm install 
+3. install react router package
+  npm install react-router-dom
+4. run the project
+  npm run dev
+5. cleared the index.css and app.jsx file. created two folders in the src named components and navbar
+
+. rafc - creats the .jsx file pattern
+things i need to understand
+const api, useContext
