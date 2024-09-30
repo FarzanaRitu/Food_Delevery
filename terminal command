@@ -11,3 +11,21 @@
 . rafc - creats the .jsx file pattern
 things i need to understand
 const api, useContext
+
+after completing the frontend . a new file is named backend. then stop the frontend react server. 
+and open the backend in the terminal.
+npm init =>.....
+install dependency
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon
+mongoose = connect to databse
+jsonwebtoken = authentication system
+bcrypt = encrypts users data and store in database
+cors = give the permission to frontend to connect with backend
+dotenv = can use the environment variable in the project.
+body-parser = using this we can parse the data comming from the user.
+multer = image storage system
+stripe = payment gateway system
+validator = for checking the password and email id is valid or not
+nodemon = server restarts after each saving projects
+
+
